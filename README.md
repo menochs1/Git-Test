@@ -1,0 +1,1 @@
+The purpsoe of this is to practice using git with emacs and linux. 
